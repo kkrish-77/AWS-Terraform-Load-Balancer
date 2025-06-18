@@ -1,4 +1,3 @@
-root@LAPTOP-LAKNHJC5:~/quiz-app# cat Dockerfile
 FROM node:18-alpine
 
 WORKDIR /app
